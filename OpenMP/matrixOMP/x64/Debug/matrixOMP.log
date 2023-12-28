@@ -1,0 +1,4 @@
+﻿  matrixOMP.cpp
+C:\Users\goshe\source\repos\matrixOMP\matrixOMP.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\goshe\source\repos\matrixOMP\matrixOMP.cpp(37,6): warning C4101: rand_num: неиспользованная локальная переменная
+  matrixOMP.vcxproj -> C:\Users\goshe\source\repos\matrixOMP\x64\Debug\matrixOMP.exe

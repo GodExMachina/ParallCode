@@ -1,0 +1,3 @@
+﻿  matrixMPI.cpp
+C:\Users\goshe\source\repos\matrixMPI\matrixMPI.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  matrixMPI.vcxproj -> C:\Users\goshe\source\repos\matrixMPI\x64\Debug\matrixMPI.exe
